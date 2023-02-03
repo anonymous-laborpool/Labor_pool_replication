@@ -4,3 +4,6 @@
 Files:  
 
  - main.Rmd:  R script for replication
+
+
+Please unzip data.zip to ./data first before running the R script
