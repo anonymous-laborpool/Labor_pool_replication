@@ -1,4 +1,4 @@
-# This is the replication package for the labor pool paper submission
+# This is the replication package for the paper submission
 
 
 Files:  
